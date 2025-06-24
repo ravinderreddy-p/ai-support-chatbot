@@ -26,7 +26,7 @@ if user_prompt := st.chat_input("How can I help you today?"):
             try:
                 # Send request to FastAPI backend
                 response = requests.post(
-                    "http://localhost:8000/chat",  # backend must be running
+                    "https://ai-support-chatbot-0wkq.onrender.com/chat",  # backend must be running
                     json={"message": user_prompt},
                     timeout=30
                 )
