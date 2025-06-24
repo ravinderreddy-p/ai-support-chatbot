@@ -30,3 +30,8 @@ Answer:"""
     )
 
     return response.choices[0].message.content.strip()
+
+
+def log_feedback(feedback: str, user_query: str, bot_reply: str):
+    with open("data/feedback_log.txt", "a") as f:
+        f.write(f"User Query: {user_query}\nResponse: {bot_reply}\nFeedback: {feedback}\n\n")

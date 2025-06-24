@@ -1,0 +1,44 @@
+User Query: hi - how are you?
+Response: I'm a customer support agent, I'm here to help you. How can I assist you today?
+Feedback: 👍
+
+User Query: how to reset password?
+Response: Click "Forgot Password" on the login page and follow instructions.
+Feedback: 👍
+
+User Query: can you provide 24X7 customer service support?
+Response: No, our customer support is available from 9 AM to 9 PM IST, Monday to Saturday.
+Feedback: 👍
+
+User Query: Do you support 24X7?
+Response: Support is available from 9 AM to 9 PM IST, Mon to Sat.
+Feedback: 👍
+
+User Query: what is your name?
+Response: As a customer support agent, I'm here to assist with your queries rather than provide personal information. How may I assist you further?
+Feedback: 👍
+
+User Query: What is your refund policy?
+Response: You can request a refund within 14 days of purchase.
+Feedback: 👍
+
+User Query: How do I reset my password?
+Response: Click "Forgot Password" on the login page and follow instructions.
+Feedback: 👍
+
+User Query: Test question
+Response: Test reply
+Feedback: 👍
+
+User Query: test query test?
+Response: I'm sorry, but your question is not clear. Could you please provide more details so I can assist you better?
+Feedback: 👎
+
+User Query: I am checking your funcationality of app....
+Response: I'm sorry, but your question is not clear. Could you please provide more details so I can assist you better?
+Feedback: 👎
+
+User Query: THankyou for your support today!
+Response: You're welcome! If you have any other questions, feel free to ask. Have a great day!
+Feedback: 👍
+
